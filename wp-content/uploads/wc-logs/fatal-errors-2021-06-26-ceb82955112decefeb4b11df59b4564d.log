@@ -1,0 +1,2 @@
+2021-06-26T23:56:07+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 36864 bytes) in C:\laragon\www\wordpress\wp-includes\class-wp-hook.php on line 78
+
